@@ -1,0 +1,7 @@
+while ( q > r & & r < s | | s < = t )
+{
+while ( t = = u & & u < = r )
+{
+r = u ;
+}
+}
